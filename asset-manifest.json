@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/https://github.com/landhyun/movieBoard/static/js/main.96b3c410.js",
-    "index.html": "/https://github.com/landhyun/movieBoard/index.html",
-    "main.96b3c410.js.map": "/https://github.com/landhyun/movieBoard/static/js/main.96b3c410.js.map"
+    "main.js": "/landhyun/movieBoard/static/js/main.96b3c410.js",
+    "index.html": "/landhyun/movieBoard/index.html",
+    "main.96b3c410.js.map": "/landhyun/movieBoard/static/js/main.96b3c410.js.map"
   },
   "entrypoints": [
     "static/js/main.96b3c410.js"
